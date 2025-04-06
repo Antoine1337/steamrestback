@@ -7,3 +7,8 @@ Une fois cloné, installez les dépendances du projet :
 ```
 npm install
 ```
+
+Une fois les dépendances installées, lancez le serveur BACK :
+```
+node ./index.js
+```
